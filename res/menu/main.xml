@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.nfcscan.MainActivity" >
+    <item android:id="@+id/reader" android:title="@string/readnfc"></item>
+    <item android:id="@+id/writer" android:title="@string/writenfc"></item>
+    <item android:id="@+id/exit" android:title="@string/exit"></item>
+
+</menu>

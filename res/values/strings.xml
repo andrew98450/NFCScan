@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFCScan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="readnfc">Read</string>
+    <string name="writenfc">Write</string>
+    <string name="exit">Exit</string>
+
+</resources>
